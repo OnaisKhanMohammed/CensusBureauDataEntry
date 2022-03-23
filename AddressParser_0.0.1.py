@@ -2,7 +2,7 @@ import re
 from tqdm import tqdm
 import pandas as pd
 import json 
-
+#Parsing 1st program
 Address_4CAF50=open("AddressListRev.txt","r")
 Lines = Address_4CAF50.readlines()
 DF=[]
