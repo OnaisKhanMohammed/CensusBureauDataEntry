@@ -1,5 +1,5 @@
 {
-    "Total_Mask_Count": 847,
+    "Total_Mask_Count": 848,
     "Masks_Count": {
         "NWFFSW,WW,T,N": 166,
         "NDWF,WW,T,N": 416,
@@ -847,6 +847,7 @@
         "NFF,F,TN": 1,
         "NWXF,W,TN": 1,
         "NWF,WN,WWW,TN": 1,
-        "NWFF,WFWF,TN": 1
+        "NWFF,WFWF,TN": 1,
+        "NWFFD,FW,TN": 1
     }
 }
